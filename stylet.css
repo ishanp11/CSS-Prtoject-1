@@ -1,0 +1,240 @@
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+nav{
+    margin-top: 82px;
+    margin-left: 112px;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 10px;
+
+}
+
+.circle{
+    border-radius: 50%;
+    background-color: royalblue;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    font-weight: 900PX;
+    position: relative;
+    left: 1275px;
+    top: 50px;
+    
+    
+}
+.addnewtask{
+    position: relative;
+    left: 1325px;
+    top: -2px;
+
+}
+.box1{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: 50px;
+    left: 42px;
+    margin: 5px;
+    border: 2px solid blue;
+    border-radius: 15px;
+
+}
+.box1:hover{
+    box-shadow: 0px 0px 10px 10px grey;
+}
+.box2{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: 50px;
+    left: 42px;
+    border: 2px solid blue;
+    border-radius: 15px;
+}
+.box2:hover{
+    box-shadow: 0px 0px 10px 10px grey;
+}
+.box3{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: 50px;
+    left: 42px;
+    border: 2px solid blue;
+    border-radius: 15px;
+}
+.box3:hover{
+    box-shadow: 0px 0px 10px 10px grey;
+}
+.box4{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: 119px;
+    left: -121px;
+    border: 2px solid blue;
+    border-radius: 15px;
+}   
+.box4:hover{
+    box-shadow: 0px 0px 10px 10px grey;
+}
+.box5{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: 122px;
+    left: -273px;
+    border: 2px solid blue;
+    border-radius: 15px;
+    
+}
+.box5:hover{
+    box-shadow: 0px 0px 10px 10px grey;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-left: 10px;
+    margin: 5px;
+    padding: 15px;
+    width: 100%;
+    
+}
+a{
+    text-decoration: none;
+}
+hr{
+    color: grey;
+}
+.boxp1{
+    z-index: 1;
+    height: 200px;
+    width: 500px;
+    border-radius: 20px;
+    position: absolute;
+    top: 304px;
+    left: 480px;
+    border: 5px solid blue;
+    
+}
+.input{
+    width:150px;
+}
+.X{
+    position: relative;
+    left: 472px;
+    bottom: 45px;
+}
+.task{
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+.list{
+    color: blue;
+    position: relative;
+    top: -10px;
+    left: 180px;
+}
+
+.blurr{
+    filter: blur(2px);
+    
+}
+
+.parent{
+    width: 100%;
+}
+.p3{
+    position: relative;
+    top: 60px;
+    left: 70px;
+}
+.p3l{
+    position: relative;
+    left: 150px;
+}
+.p3addnewtask{
+
+    position: relative;
+    left: 995px;
+    bottom: 100px;
+    font-weight: bolder;
+}
+.circle2{
+
+    border-radius: 50%;
+    background-color: royalblue;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    font-weight: 900PX;
+    position: relative;
+    left: 950px;
+    bottom: 50px;
+}
+.backicon{
+ position: relative;
+ left: 200px;
+ top: 50px;
+}
+.back{
+    font-size: larger;
+    position: relative;
+    left: 227px;
+}
+.p4box{
+    width: 400px;
+    height: 250px;
+    position: relative;
+    left: 447px;
+    bottom: 28px;
+    border-radius: 15px;
+    border: 2px solid blue;
+    text-align: center;
+}
+.checkboxpage3{
+
+    text-align: start;
+    
+}
+.blurpage4{
+    filter: blur(2px);
+}
+.addnewp4{
+
+    height: 200px;
+    width: 400px;
+    border: 2px solid blue;
+    position: absolute;
+    left: 418px;
+    bottom: 263px;
+    border-radius: 5px;
+}
+.additemS{
+    height: 30PX;
+    width: 90px;
+    background-color: blue;
+    color: aliceblue;
+    position: relative;
+    left: 300px;
+    top: 50px;
+    text-align: center;
+    border-radius: 5px;
+}
+.X2{
+    position: relative;
+    left: 366px;
+    bottom: 44px;
+
+}
+.list1{
+    position: relative;
+    left: 200px;
+    bottom: 57px;
+}
